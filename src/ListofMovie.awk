@@ -7,7 +7,7 @@ BEGIN {
 
 {	
 	# prints a clear format of the csv file
-  print ("Movie ID: ")
+  	print ("Movie ID: ")
 	print ("Movie Title: ")
 	print ("Genre: ")
 	print ("-------------------------------\n")
