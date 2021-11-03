@@ -2,14 +2,14 @@ BEGIN {
 	FS = ",";
 	# input field separator
 	
-	print("Table of Movie title");
+	print("Table of Movie title\n");
 }
 
 {	
 	# prints a clear format of the csv file
-  	print ("Movie ID: ")
-	print ("Movie Title: ")
-	print ("Genre: ")
+  	print ("Movie ID: " $1)
+	print ("Movie Title: " $2)
+	print ("Genre: " $3)
 	print ("-------------------------------\n")
 
 }
