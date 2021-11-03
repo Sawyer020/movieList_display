@@ -2,8 +2,9 @@
 By using awk script and makefile to generate a formatted list of movie list from CSV file. Classify the differnt variable into 3 sets of data by the commands in awk script, and prints out these sets of data into the console.
 
 # Instructions
-1. Clone this repository https://github.com/Sawyer020/movieList_display.git
-2. Change to directory movieList_display and run makefile, the csv file will be downloaded and the awk script will produce the result.
+1. Install Makefile to the linux machine. 
+2. Clone this repository https://github.com/Sawyer020/movieList_display.git
+3. Change to directory movieList_display and run makefile, the csv file will be downloaded and the awk script will produce the result.
 
 # Report
 The report shows in the format below:
