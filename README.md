@@ -7,5 +7,6 @@ By using awk script and makefile to generate a formatted list of movie list from
 
 # Report
 The report shows in the format below:
+
 ![image](https://user-images.githubusercontent.com/78552376/140005430-caaf674f-9f94-424a-96c6-2c228d4d9f5f.png)
 
