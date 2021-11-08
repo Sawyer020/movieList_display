@@ -1,8 +1,8 @@
 BEGIN {
-	FS = ",";
+	FS = ","
 	# input field separator
 	
-	print("Table of Movie title\n");
+	print("Table of Movie title\n")
 }
 
 {	
